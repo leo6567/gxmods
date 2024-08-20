@@ -13,14 +13,7 @@ With mod customization, authors have complete control over what is included and 
 The following areas provide ample opportunities to unleash creativity:
 
 1. Background music - dynamic music that fits browsing
-2. Keyboard sounds - mechanical keyboard, typewriter, or sci-fi terminal sounds
-3. Browser sounds - opening and closing tabs, clicking, flipping switches, etc.
-4. Wallpaper - light and dark versions (static and animated)
-5. Theme - color theme for light and dark mode
-6. Web modding - tuning web pages to create unique appearances
-7. Shaders - applying visual effects to the whole screen while browsing.
-
-## How to create mods?
+2. Keyboard sounds - mechan?
 
 We have video tutorials for making each aspect of a mod:
 
